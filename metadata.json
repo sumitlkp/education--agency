@@ -1,0 +1,6 @@
+{
+  "name": "StudyWay India",
+  "description": "India's premier online education platform for ITI, Railway, SSC, and competitive exam live and recorded courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
